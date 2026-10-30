@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/MODE-AI_OPC_FOUNDER-00ff41?style=flat-square&labelColor=0d1117" alt="Mode" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanewa/shanewa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanewa/shanewa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shanewa/shanewa/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ```bash
@@ -141,12 +147,6 @@ motto: "Automate the boring, ship the interesting."
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanewa&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Commit%20Activity" alt="Activity Graph" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanewa/shanewa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanewa/shanewa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shanewa/shanewa/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 🤝 `> ping shane`
 
