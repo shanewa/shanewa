@@ -145,7 +145,11 @@ motto: "Automate the boring, ship the interesting."
 ## 📡 `> ./stats --live`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanewa&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Commit%20Activity" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanewa&theme=github_dark" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shanewa&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 ## 🤝 `> ping shane`
